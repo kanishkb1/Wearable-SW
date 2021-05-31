@@ -19,6 +19,7 @@ def index():
 def data():
     content = request.get_json()
     print(content)
+
     return 'JSON received'
 
 
