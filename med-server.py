@@ -1,9 +1,8 @@
 # code for parsing json file
 # Using flask to make an api
 # import necessary libraries and functions
-from flask import Flask, request, render_template, jsonify
+from flask import Flask, request, render_template
 from flask_pymongo import PyMongo
-from pymongo.errors import BulkWriteError
 
 # creating a Flask app
 app = Flask(__name__)
@@ -13,13 +12,13 @@ mongodb_client = PyMongo(app)
 db = mongodb_client.db
 
 
-# returns simple strings when we use GET.
-# returns the data that we send when we use POST.
+# provides homepage for the visitor
 @app.route('/')
 def index():
     return render_template('index.html')
 
 
+# pushed the data send by the device to cloud
 @app.route('/wearable-testing/data', methods=['POST'])
 def data():
     content = request.get_json()

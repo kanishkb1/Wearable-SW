@@ -35,6 +35,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.med-server">
@@ -110,6 +111,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="524" y="266" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1622491907954">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="524" y="266" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1622491907953" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1622385150297">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
