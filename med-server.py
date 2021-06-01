@@ -15,6 +15,7 @@ db = mongodb_client.db
 # provides homepage for the visitor
 @app.route('/')
 def index():
+    print('Welcome')
     return render_template('index.html')
 
 
@@ -24,6 +25,15 @@ def data():
     content = request.get_json()
     print(content)
     db.sensor_data.insert_one(content)
+    return 'record added to db'
+
+
+# pushed the data send by the device to cloud
+@app.route('/wearable/data', methods=['POST'])
+def wearable_data():
+    content = request.get_json()
+    print(content)
+    db.wearable_sensor_data.insert_one(content)
     return 'record added to db'
 
 
