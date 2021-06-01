@@ -1,0 +1,117 @@
+[{
+  "_id": {
+    "$oid": "60b53f7dc5b5a3842c3565a8"
+  },
+  "gw_data": {
+    "wifimac": "001234567890",
+    "rssi": "-69",
+    "ts": "2020-05-26 15:48:00"
+  },
+  "node": [
+    {
+      "mac": "01256df8874159ff",
+      "rssi": "-64",
+      "batt": "45",
+      "sensors": [
+        {
+          "sens_id": "hr",
+          "data": "78",
+          "unit": "bpm"
+        },
+        {
+          "sens_id": "spo2",
+          "data": "95",
+          "unit": "per"
+        },
+        {
+          "sens_id": "temp",
+          "data": "36.8",
+          "unit": "C"
+        }
+      ]
+    },
+    {
+      "mac": "92156df8874159bb",
+      "rssi": "-64",
+      "batt": "45",
+      "sensors": [
+        {
+          "sens_id": "hr",
+          "data": "78",
+          "unit": "bpm"
+        },
+        {
+          "sens_id": "spo2",
+          "data": "95",
+          "unit": "per"
+        },
+        {
+          "sens_id": "temp",
+          "data": "36.8",
+          "unit": "C"
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60b53fa8c5b5a3842c3565a9"
+  },
+  "gw_data": {
+    "wifimac": "001234567890",
+    "rssi": "-69",
+    "ts": "2020-05-26 15:48:00"
+  },
+  "node": [
+    {
+      "mac": "01256df8874159ff",
+      "rssi": "-64",
+      "batt": "45",
+      "sensors": [
+        {
+          "sens_id": "hr",
+          "data": "78",
+          "unit": "bpm"
+        },
+        {
+          "sens_id": "spo2",
+          "data": "95",
+          "unit": "per"
+        },
+        {
+          "sens_id": "temp",
+          "data": "36.8",
+          "unit": "C"
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60b5404fc5b5a3842c3565ab"
+  },
+  "gw_data": {
+    "wifimac": "001234567890",
+    "rssi": "-69",
+    "ts": "2020-05-26 15:48:00"
+  },
+  "node": [
+    {
+      "mac": "01256df8874159ff",
+      "rssi": "-64",
+      "batt": "45",
+      "sensors": [
+        {
+          "sens_id": "hr",
+          "data": "78",
+          "unit": "bpm"
+        },
+        {
+          "sens_id": "temp",
+          "data": "36.8",
+          "unit": "C"
+        }
+      ]
+    }
+  ]
+}]

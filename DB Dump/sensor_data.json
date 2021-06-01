@@ -1,0 +1,657 @@
+[{
+  "_id": {
+    "$oid": "60b535ecc5b5a3842c3565a6"
+  },
+  "gw_data": {
+    "wifimac": "B4:E6:2D:34:DA:5C",
+    "ts": "2021-05-31 15:09:13"
+  },
+  "sensors": [
+    {
+      "sens_id": "hr",
+      "data": "81",
+      "unit": "bpm"
+    },
+    {
+      "sens_id": "spo2",
+      "data": "-999",
+      "unit": "per"
+    },
+    {
+      "sens_id": "temp",
+      "data": "34.1",
+      "unit": "C"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60b53923c5b5a3842c3565a7"
+  },
+  "gw_data": {
+    "wifimac": "B4:E6:2D:34:DA:5C",
+    "ts": "2021-05-31 15:01:03"
+  },
+  "sensors": [
+    {
+      "sens_id": "hr",
+      "data": "81",
+      "unit": "bpm"
+    },
+    {
+      "sens_id": "spo2",
+      "data": "-999",
+      "unit": "per"
+    },
+    {
+      "sens_id": "temp",
+      "data": "34.1",
+      "unit": "C"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60b539f5d5067d915e36ceb7"
+  },
+  "gw_data": {
+    "wifimac": "B4:E6:2D:34:DA:5C",
+    "ts": "1970-01-01 05:31:26"
+  },
+  "sensors": [
+    {
+      "sens_id": "hr",
+      "data": "63",
+      "unit": "bpm"
+    },
+    {
+      "sens_id": "spo2",
+      "data": "2",
+      "unit": "per"
+    },
+    {
+      "sens_id": "temp",
+      "data": "34.3",
+      "unit": "C"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60b53a3c386dcebbe31c935b"
+  },
+  "gw_data": {
+    "wifimac": "B4:E6:2D:34:DA:5C",
+    "ts": "1970-01-01 05:31:12"
+  },
+  "sensors": [
+    {
+      "sens_id": "hr",
+      "data": "80",
+      "unit": "bpm"
+    },
+    {
+      "sens_id": "spo2",
+      "data": "84",
+      "unit": "per"
+    },
+    {
+      "sens_id": "temp",
+      "data": "34.7",
+      "unit": "C"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60b53d2996f1ea2c0b947605"
+  },
+  "gw_data": {
+    "wifimac": "B4:E6:2D:34:DA:5C",
+    "ts": "1970-01-01 05:31:12"
+  },
+  "sensors": [
+    {
+      "sens_id": "hr",
+      "data": "80",
+      "unit": "bpm"
+    },
+    {
+      "sens_id": "spo2",
+      "data": "84",
+      "unit": "per"
+    },
+    {
+      "sens_id": "temp",
+      "data": "34.7",
+      "unit": "C"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60b53d4baa7525af8b0775f9"
+  },
+  "gw_data": {
+    "wifimac": "B4:E6:2D:34:DA:5C",
+    "ts": "1970-01-01 05:31:12"
+  },
+  "sensors": [
+    {
+      "sens_id": "hr",
+      "data": "80",
+      "unit": "bpm"
+    },
+    {
+      "sens_id": "spo2",
+      "data": "84",
+      "unit": "per"
+    },
+    {
+      "sens_id": "temp",
+      "data": "34.7",
+      "unit": "C"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60b53dd787ba0f9f144c932b"
+  },
+  "gw_data": {
+    "wifimac": "B4:E6:2D:34:DA:5C",
+    "ts": "2021-06-01 01:11:44"
+  },
+  "sensors": [
+    {
+      "sens_id": "hr",
+      "data": "64",
+      "unit": "bpm"
+    },
+    {
+      "sens_id": "spo2",
+      "data": "10",
+      "unit": "per"
+    },
+    {
+      "sens_id": "temp",
+      "data": "34.9",
+      "unit": "C"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60b53e11fab2add0970b1c57"
+  },
+  "gw_data": {
+    "wifimac": "B4:E6:2D:34:DA:5C",
+    "ts": "1970-01-01 05:31:12"
+  },
+  "sensors": [
+    {
+      "sens_id": "hr",
+      "data": "80",
+      "unit": "bpm"
+    },
+    {
+      "sens_id": "spo2",
+      "data": "84",
+      "unit": "per"
+    },
+    {
+      "sens_id": "temp",
+      "data": "34.7",
+      "unit": "C"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60b53e55fab2add0970b1c58"
+  },
+  "gw_data": {
+    "wifimac": "B4:E6:2D:34:DA:5C",
+    "ts": "2021-06-01 01:19:44"
+  },
+  "sensors": [
+    {
+      "sens_id": "hr",
+      "data": "64",
+      "unit": "bpm"
+    },
+    {
+      "sens_id": "spo2",
+      "data": "10",
+      "unit": "per"
+    },
+    {
+      "sens_id": "temp",
+      "data": "34.9",
+      "unit": "C"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60b53e75fab2add0970b1c59"
+  },
+  "gw_data": {
+    "wifimac": "B4:E6:2D:XX:XX:XX",
+    "ts": "1970-01-01 05:31:12"
+  },
+  "sensors": [
+    {
+      "sens_id": "hr",
+      "data": "80",
+      "unit": "bpm"
+    },
+    {
+      "sens_id": "spo2",
+      "data": "84",
+      "unit": "per"
+    },
+    {
+      "sens_id": "temp",
+      "data": "34.7",
+      "unit": "C"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60b540adfab2add0970b1c5a"
+  },
+  "gw_data": {
+    "wifimac": "B4:E6:2D:34:DA:5C",
+    "ts": "2021-06-01 01:21:49"
+  },
+  "sensors": [
+    {
+      "sens_id": "hr",
+      "data": "64",
+      "unit": "bpm"
+    },
+    {
+      "sens_id": "spo2",
+      "data": "10",
+      "unit": "per"
+    },
+    {
+      "sens_id": "temp",
+      "data": "34.9",
+      "unit": "C"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60b54187fab2add0970b1c5b"
+  },
+  "gw_data": {
+    "wifimac": "B4:E6:2D:34:DA:5C",
+    "ts": "2021-06-01 01:31:50"
+  },
+  "sensors": [
+    {
+      "sens_id": "hr",
+      "data": "49",
+      "unit": "bpm"
+    },
+    {
+      "sens_id": "spo2",
+      "data": "29",
+      "unit": "per"
+    },
+    {
+      "sens_id": "temp",
+      "data": "35.1",
+      "unit": "C"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60b5430537dddde8357e1ae7"
+  },
+  "gw_data": {
+    "wifimac": "B4:E6:2D:34:DA:5C",
+    "ts": "2021-06-01 01:35:27"
+  },
+  "sensors": [
+    {
+      "sens_id": "hr",
+      "data": "49",
+      "unit": "bpm"
+    },
+    {
+      "sens_id": "spo2",
+      "data": "29",
+      "unit": "per"
+    },
+    {
+      "sens_id": "temp",
+      "data": "35.1",
+      "unit": "C"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60b5432479db4d8e54b62957"
+  },
+  "gw_data": {
+    "wifimac": "B4:E6:2D:XX:XX:XX",
+    "ts": "1970-01-01 05:31:12"
+  },
+  "sensors": [
+    {
+      "sens_id": "hr",
+      "data": "80",
+      "unit": "bpm"
+    },
+    {
+      "sens_id": "spo2",
+      "data": "84",
+      "unit": "per"
+    },
+    {
+      "sens_id": "temp",
+      "data": "34.7",
+      "unit": "C"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60b5455d79db4d8e54b62958"
+  },
+  "gw_data": {
+    "wifimac": "B4:E6:2D:34:DA:5C",
+    "ts": "2021-06-01 01:41:50"
+  },
+  "sensors": [
+    {
+      "sens_id": "hr",
+      "data": "49",
+      "unit": "bpm"
+    },
+    {
+      "sens_id": "spo2",
+      "data": "29",
+      "unit": "per"
+    },
+    {
+      "sens_id": "temp",
+      "data": "35.1",
+      "unit": "C"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60b5494cd2218620fe58ea88"
+  },
+  "gw_data": {
+    "wifimac": "B4:E6:2D:34:DA:5C",
+    "ts": "1970-01-01 05:31:45"
+  },
+  "sensors": [
+    {
+      "sens_id": "hr",
+      "data": "73",
+      "unit": "bpm"
+    },
+    {
+      "sens_id": "spo2",
+      "data": "33",
+      "unit": "per"
+    },
+    {
+      "sens_id": "temp",
+      "data": "35.5",
+      "unit": "C"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60b54a7ad2218620fe58ea89"
+  },
+  "gw_data": {
+    "wifimac": "B4:E6:2D:34:DA:5C",
+    "ts": "1970-01-01 05:32:53"
+  },
+  "sensors": [
+    {
+      "sens_id": "hr",
+      "data": "78",
+      "unit": "bpm"
+    },
+    {
+      "sens_id": "spo2",
+      "data": "53",
+      "unit": "per"
+    },
+    {
+      "sens_id": "temp",
+      "data": "35.4",
+      "unit": "C"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60b54b86d2218620fe58ea8a"
+  },
+  "gw_data": {
+    "wifimac": "B4:E6:2D:34:DA:5C",
+    "ts": "1970-01-01 05:31:46"
+  },
+  "sensors": [
+    {
+      "sens_id": "hr",
+      "data": "76",
+      "unit": "bpm"
+    },
+    {
+      "sens_id": "spo2",
+      "data": "88",
+      "unit": "per"
+    },
+    {
+      "sens_id": "temp",
+      "data": "35.4",
+      "unit": "C"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60b54ea8d2218620fe58ea8b"
+  },
+  "gw_data": {
+    "wifimac": "B4:E6:2D:34:DA:5C",
+    "ts": "1970-01-01 05:31:48"
+  },
+  "sensors": [
+    {
+      "sens_id": "hr",
+      "data": "83",
+      "unit": "bpm"
+    },
+    {
+      "sens_id": "spo2",
+      "data": "19",
+      "unit": "per"
+    },
+    {
+      "sens_id": "temp",
+      "data": "35.5",
+      "unit": "C"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60b5cfe23fe874da06b6836b"
+  },
+  "gw_data": {
+    "wifimac": "B4:E6:2D:34:DA:5C",
+    "rssi": "-34",
+    "ts": "1970-01-01 05:32:07"
+  },
+  "sensors": [
+    {
+      "sens_id": "hr",
+      "data": "50",
+      "unit": "bpm"
+    },
+    {
+      "sens_id": "spo2",
+      "data": "-999",
+      "unit": "per"
+    },
+    {
+      "sens_id": "temp",
+      "data": "34.5",
+      "unit": "C"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60b5d05f3fe874da06b6836c"
+  },
+  "gw_data": {
+    "wifimac": "B4:E6:2D:34:DA:5C",
+    "rssi": "-38",
+    "ts": "2021-06-01 11:42:51"
+  },
+  "sensors": [
+    {
+      "sens_id": "hr",
+      "data": "64",
+      "unit": "bpm"
+    },
+    {
+      "sens_id": "spo2",
+      "data": "99",
+      "unit": "per"
+    },
+    {
+      "sens_id": "temp",
+      "data": "34.7",
+      "unit": "C"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60b5d2b83fe874da06b6836d"
+  },
+  "gw_data": {
+    "wifimac": "B4:E6:2D:34:DA:5C",
+    "rssi": "-36",
+    "ts": "2021-06-01 11:44:56"
+  },
+  "sensors": [
+    {
+      "sens_id": "hr",
+      "data": "64",
+      "unit": "bpm"
+    },
+    {
+      "sens_id": "spo2",
+      "data": "99",
+      "unit": "per"
+    },
+    {
+      "sens_id": "temp",
+      "data": "34.7",
+      "unit": "C"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60b5d72074686560ba059bd2"
+  },
+  "gw_data": {
+    "wifimac": "B4:E6:2D:XX:XX:XX",
+    "ts": "1970-01-01 05:31:12"
+  },
+  "sensors": [
+    {
+      "sens_id": "hr",
+      "data": "80",
+      "unit": "bpm"
+    },
+    {
+      "sens_id": "spo2",
+      "data": "84",
+      "unit": "per"
+    },
+    {
+      "sens_id": "temp",
+      "data": "34.7",
+      "unit": "C"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60b5d76074686560ba059bd3"
+  },
+  "gw_data": {
+    "wifimac": "B4:E6:2D:34:DA:5C",
+    "rssi": "-39",
+    "ts": "2021-06-01 12:08:59"
+  },
+  "sensors": [
+    {
+      "sens_id": "hr",
+      "data": "90",
+      "unit": "bpm"
+    },
+    {
+      "sens_id": "spo2",
+      "data": "-999",
+      "unit": "per"
+    },
+    {
+      "sens_id": "temp",
+      "data": "33.6",
+      "unit": "C"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60b5d9b974686560ba059bd4"
+  },
+  "gw_data": {
+    "wifimac": "B4:E6:2D:34:DA:5C",
+    "rssi": "-35",
+    "ts": "2021-06-01 12:14:49"
+  },
+  "sensors": [
+    {
+      "sens_id": "hr",
+      "data": "90",
+      "unit": "bpm"
+    },
+    {
+      "sens_id": "spo2",
+      "data": "-999",
+      "unit": "per"
+    },
+    {
+      "sens_id": "temp",
+      "data": "33.6",
+      "unit": "C"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60b5dcba74686560ba059bd5"
+  },
+  "gw_data": {
+    "wifimac": "B4:E6:2D:34:DA:5C",
+    "rssi": "-36",
+    "ts": "1970-01-01 05:31:51"
+  },
+  "sensors": [
+    {
+      "sens_id": "hr",
+      "data": "12",
+      "unit": "bpm"
+    },
+    {
+      "sens_id": "spo2",
+      "data": "91",
+      "unit": "per"
+    },
+    {
+      "sens_id": "temp",
+      "data": "34.9",
+      "unit": "C"
+    }
+  ]
+}]
