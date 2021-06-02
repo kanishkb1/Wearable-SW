@@ -3,6 +3,8 @@
 # import necessary libraries and functions
 from flask import Flask, request, render_template
 from flask_pymongo import PyMongo
+import datetime
+import json
 
 # creating a Flask app
 app = Flask(__name__)
@@ -23,7 +25,12 @@ def index():
 @app.route('/wearable-testing/data', methods=['POST'])
 def data():
     content = request.get_json()
-    print(content)
+    #print(content)
+    #print(type(content))
+    server_ts = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    print('Server Timestamp is: ' + server_ts)
+    content["s_ts"] = "%s" % server_ts
+    print("final string", content)
     db.sensor_data.insert_one(content)
     return 'record added to db'
 
@@ -32,7 +39,10 @@ def data():
 @app.route('/wearable/data', methods=['POST'])
 def wearable_data():
     content = request.get_json()
-    print(content)
+    server_ts = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    print('Server Timestamp is: ' + server_ts)
+    content["s_ts"] = "%s" % server_ts
+    print("final string", content)
     db.wearable_sensor_data.insert_one(content)
     return 'record added to db'
 
